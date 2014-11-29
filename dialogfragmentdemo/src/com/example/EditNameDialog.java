@@ -12,7 +12,7 @@ import android.view.inputmethod.EditorInfo;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.TextView.OnEditorActionListener;
-
+//
 public class EditNameDialog extends DialogFragment implements OnEditorActionListener {
 
     public interface EditNameDialogListener {
